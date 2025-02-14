@@ -1,7 +1,5 @@
 # Testing-JavaScript
-$ git remote -v
-origin  https://github.com/kudo-2003/Testing-JavaScript (fetch)
-origin  https://github.com/kudo-2003/Testing-JavaScript (push)
+
 
 ```bash
 git remote -v
