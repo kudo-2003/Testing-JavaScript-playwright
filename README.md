@@ -23,6 +23,12 @@ git status
 
 ```bash
 git add .
+```
+
+```bash
 git commit -m "Mô tả thay đổi"
+```
+
+```bash
 git push
 ```
