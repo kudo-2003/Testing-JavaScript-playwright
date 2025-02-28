@@ -55,3 +55,9 @@ git checkout main
 ```bash
 git pull origin main
 ```
+
+### khac
+
+```bash
+git remote set-url origin https://github.com/kudo-2003/ticket-car.git
+```
