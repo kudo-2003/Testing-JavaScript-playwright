@@ -51,3 +51,7 @@ git push origin tên-nhánh-của-bạn
 ```bash
 git checkout main
 ```
+
+```bash
+git pull origin main
+```
