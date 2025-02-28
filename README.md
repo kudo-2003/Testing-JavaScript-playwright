@@ -45,3 +45,9 @@ git commit -m "Giải quyết xung đột"
 ```bash
 git push origin tên-nhánh-của-bạn
 ```
+
+### Kéo Về Từ nhánh main
+
+```bash
+git checkout main
+```
